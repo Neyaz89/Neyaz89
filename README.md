@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend • APIs • Real-time Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/neyaz89">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
@@ -64,9 +64,9 @@
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: https://linkedin.com/in/neyaz-ahmad
 - 🧠 Portfolio: coming soon…
-- 📧 Email: your-email@gmail.com
+- 📧 Email: nm001814@gmail.com
 
 ---
 
